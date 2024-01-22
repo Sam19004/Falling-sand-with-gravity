@@ -37,7 +37,7 @@ function make2DArray(cols, rows) {
   }
   
   function setup() {
-    createCanvas(600, 500);
+    createCanvas(1500, 700);
     colorMode(HSB, 360, 255, 255);
     cols = width / w;
     rows = height / w;
